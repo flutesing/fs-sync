@@ -1,8 +1,11 @@
 {
-  "name": "fsync",
+  "name": "fssync",
   "version": "1.0.0",
   "description": "自用同步server封装",
   "main": "bin.js",
+  "bin":{
+    "fsync": "bin.js"
+  }, 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
