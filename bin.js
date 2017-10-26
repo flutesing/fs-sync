@@ -3,7 +3,6 @@ var path = require('path');
 var args = require('yargs').argv;
 var browserSync = require('browser-sync');
 var fs = require('fs');
-var gaze = require('gaze');
 
 args.port = args.port || args.p || 5119;
 args.project = args.project || args.proj || args.t || './';

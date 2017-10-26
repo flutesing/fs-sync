@@ -13,6 +13,10 @@
   "keywords": [
     "sync"
   ],
+  "dependencies": {
+    "yargs": "",
+    "browser-sync": ""
+  },
   "author": "flutesing@gmail.com",
   "license": "ISC",
   "bugs": {
