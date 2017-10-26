@@ -1,0 +1,22 @@
+{
+  "name": "fsync",
+  "version": "1.0.0",
+  "description": "自用同步server封装",
+  "main": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flutesing/fs-sync.git"
+  },
+  "keywords": [
+    "sync"
+  ],
+  "author": "flutesing@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flutesing/fs-sync/issues"
+  },
+  "homepage": "https://github.com/flutesing/fs-sync#readme"
+}
